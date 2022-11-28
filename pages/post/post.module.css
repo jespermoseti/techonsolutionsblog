@@ -1,0 +1,50 @@
+.main {
+  /* margin: auto; */
+  /* width: 750px; */
+  max-width: calc(100vw-50px);
+}
+
+.mainImage {
+  width: 100%;
+}
+
+.body p {
+  margin: 0 2rem;
+  font-size: medium;
+  text-indent: 50px;
+  line-height: 45px;
+  text-align: justify;
+  letter-spacing: 1.5px;
+}
+
+.postDetails {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.postDetails img {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  margin: 5px;
+}
+
+.postDetails p {
+  text-indent: 5px;
+}
+
+.comments form {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.block {
+  margin-bottom: 5px;
+}
+
+.closingDiv {
+  margin: 0 1rem;
+}

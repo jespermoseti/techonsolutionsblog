@@ -1,7 +1,6 @@
 .main {
-  /* margin: auto; */
-  /* width: 750px; */
-  max-width: calc(100vw-50px);
+  margin: auto;
+  max-width: 50rem;
 }
 
 .main h1 {

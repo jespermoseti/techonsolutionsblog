@@ -12,13 +12,15 @@
   width: 100%;
 }
 
+.body {
+  padding: 0 1rem;
+}
+
 .body p {
-  margin: 0 2rem;
   font-size: medium;
   text-indent: 50px;
   line-height: 45px;
   text-align: justify;
-  letter-spacing: 1.5px;
 }
 
 .postDetails {

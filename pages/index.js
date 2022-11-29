@@ -44,6 +44,7 @@ export default function Home({ posts }) {
                 className={classes.post}
               >
                 <h3>{p.title}</h3>
+                <p>{new Date(p._createdAt).toLocaleString()}</p>
                 <img className={classes.mainImage} src={p.mainImage} />
                 <div className={classes.author}>
                   <h6>By {p.author.name}</h6>

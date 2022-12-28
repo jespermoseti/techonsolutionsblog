@@ -47,7 +47,7 @@ export const Post = ({ title, body, image, author, time }) => {
             <Link href={"https://techonsolutions.com/"}>Techonsolutions</Link>{" "}
             for IT Services and Solutions
           </h4>
-          <p>Call/ Whatsapp us today at +254113270070</p>
+          <p>Contact us at +254113270070</p>
         </div>
       </div>
     </section>

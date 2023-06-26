@@ -44,8 +44,7 @@ export const Post = ({ title, body, image, author, time }) => {
          <h3>The End</h3>
           //<h4>
             //Visit{" "}
-            //<Link href={"https://techonsolutions.com/"}>Techonsolutions</Link>{" "}
-            //for IT Services and Solutions
+            //<Link href={"https://techonsolutions.com/"}>Techonsolutions</Link>{"for IT Services and Solutions"}
           //</h4>
           //<p>Contact us at +254113270070</p>
         </div>

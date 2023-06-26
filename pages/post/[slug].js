@@ -40,15 +40,15 @@ export const Post = ({ title, body, image, author, time }) => {
             dataset="production"
           />
         </div>
-        //<div className={classes.closingDiv}>
-         // <h3>The End</h3>
+        <div className={classes.closingDiv}>
+         <h3>The End</h3>
           //<h4>
             //Visit{" "}
             //<Link href={"https://techonsolutions.com/"}>Techonsolutions</Link>{" "}
             //for IT Services and Solutions
           //</h4>
           //<p>Contact us at +254113270070</p>
-        //</div>
+        </div>
       </div>
     </section>
   );
